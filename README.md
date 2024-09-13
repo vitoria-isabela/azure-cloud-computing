@@ -3,7 +3,7 @@
 # Computação em Nuvem no Microsoft Azure
 
 #### Conteúdo
-- [O que é Computação em Nuvem?](#o-que-e-computacao-em-nuvem-no-contexto-do-microsoft-azure)
+- [O que é Computação em Nuvem](#o-que-e-computacao-em-nuvem-no-contexto-do-microsoft-azure)
 - [Sobre o Uso do Microsoft Azure](#sobre-o-uso-do-microsoft-azure-e-pago-tem-versao-gratuita)
 - [Quais Tecnologias e Serviços o Microsoft Azure Abrange?](#quais-tecnologias-e-servicos-o-microsoft-azure-abrange)
 - [Quem Deve Utilizar?](#quem-deve-utilizar)
@@ -11,7 +11,9 @@
 - [Quando Não Devo Usar Computação em Nuvem?](#quando-nao-devo-usar-computacao-em-nuvem)
 - [Tipos de Computação em Nuvem](#tipos-de-computacao-em-nuvem)
 - [Tipos de Serviço em Nuvem](#tipos-de-servico-em-nuvem)
+- [Guias sobre Microsoft Azure](#guias-sobre-microsoft-azure)
 - [Conclusões](#conclusoes)
+  
 ---
 
 # O que é Computação em Nuvem?
@@ -397,7 +399,20 @@ O **Microsoft 365** é um exemplo clássico de SaaS. Empresas e indivíduos usam
 
 ---
 
+## Guias sobre Microsoft Azure
+[Acesse este link](https://learn.microsoft.com/en-us/training/azure/)
+
+---
+
 ## Conclusão
 
 A computação em nuvem revolucionou a forma como empresas de todos os tamanhos gerenciam seus recursos tecnológicos. O Microsoft Azure é uma plataforma robusta que oferece uma ampla variedade de serviços em diferentes categorias, desde infraestrutura até software completo, e é adequada tanto para pequenas startups quanto para grandes corporações. O uso correto da nuvem pode trazer inúmeros benefícios, como redução de custos, escalabilidade, segurança e flexibilidade. No entanto, é essencial entender os tipos de computação e serviços em nuvem para tomar decisões informadas sobre quando e como usar cada um deles.
+
+---
+
+## Referencias
+https://learn.microsoft.com/en-us/training/azure/
+https://pt.wikipedia.org/wiki/Microsoft_Azure
+https://voitto.com.br/blog/artigo/microsoft-azure
+https://www.leansolutions.com.br/blog/microsoft/
 
